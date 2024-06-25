@@ -21,6 +21,8 @@ I'm a passionate back-end programmer June Young Jung from june Young Jung.
 - Profile: [profile](https://www.notion.so/4cccd69bbc824e08b3693aa209b4b206)
 - Instagram: [id: jungjune0](https://www.instagram.com/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
 
 ## 🚀 My Projects
 
