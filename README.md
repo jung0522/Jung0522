@@ -8,6 +8,7 @@ I'm a passionate back-end programmer from Paju.
 
 ## 🔭 I'm currently working on
 - UMC 6 challenger (part web)
+- 
 ## 🌱 I'm currently learning
 - Topic 1 node.js
 - Topic 2 design DB
@@ -23,8 +24,3 @@ I'm a passionate back-end programmer from Paju.
 
 SMUPOOL is a carpool service for students at Sangmyung University and provides various functions such as login, registration, bulletin boards and comments, and real-time chat counseling.
 
-
-## 😄 Pronouns
-- He/Him
-- She/Her
-- They/Them
