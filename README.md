@@ -17,22 +17,6 @@ I'm a passionate back-end programmer from Paju.
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
 - Twitter: [Your Twitter](https://twitter.com/your-handle)
 
-## ⚡ Fun fact
-I love creating funny GIFs and memes.
-
----
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-YourHandle-blue?style=flat-square&logo=twitter)](https://twitter.com/your-handle)
-
-[![GitHub followers](https://img.shields.io/github/followers/your-github-username?style=social)](https://github.com/your-github-username)
-[![GitHub stars](https://img.shields.io/github/stars/your-github-username?style=social)](https://github.com/your-github-username)
 
 ## 🚀 My Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SMU-UMC-MINI-PROJECT&repo=SMU_UMC_MINI_PROJECT&theme=radical)](https://github.com/SMU-UMC-MINI-PROJECT/SMU_UMC_MINI_PROJECT)
