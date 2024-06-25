@@ -30,8 +30,12 @@ I'm a passionate back-end programmer June Young Jung from june Young Jung.
 
 SMUPOOL is a carpool service for students at Sangmyung University and provides various functions such as login, registration, bulletin boards and comments, and real-time chat counseling.
 
-## 🌟MY Programming Language
+## 🌟My Programming Language
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+## 📈 My GitHub Stats Card
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
