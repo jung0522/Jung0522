@@ -35,7 +35,7 @@ I love creating funny GIFs and memes.
 [![GitHub stars](https://img.shields.io/github/stars/your-github-username?style=social)](https://github.com/your-github-username)
 
 ## 🚀 My Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project-2&theme=radical)](https://github.com/your-github-username/project-2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SMU-UMC-MINI-PROJECT&repo=SMU_UMC_MINI_PROJECT&theme=radical)](https://github.com/SMU-UMC-MINI-PROJECT/SMU_UMC_MINI_PROJECT)
 
 ## 😄 Pronouns
 - He/Him
