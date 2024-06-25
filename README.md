@@ -4,25 +4,26 @@
 
 # Hello, I'm June Young Jung 👋
 
-I'm a passionate back-end programmer from Paju. 
+I'm a passionate back-end programmer from Paju.
 
 ## 🔭 I'm currently working on
+- [SMU-UMC-MINI-PROJECT](https://github.com/SMU-UMC-MINI-PROJECT)
 
 ## 🌱 I'm currently learning
-- Topic 1 node.js
+- Node.js
 - Topic 2
 
 ## 📫 How to reach me
 - Email: [jjy1111202@naver.com](mailto:jjy1111202@naver.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- Twitter: [Your Twitter](https://twitter.com/your-handle)
+- LinkedIn: [June Young Jung](https://www.linkedin.com/in/your-profile)
+- Twitter: [@your-handle](https://twitter.com/your-handle)
 
 ## ⚡ Fun fact
 I love creating funny GIFs and memes.
 
 ---
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![June Young Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
@@ -35,7 +36,7 @@ I love creating funny GIFs and memes.
 [![GitHub stars](https://img.shields.io/github/stars/your-github-username?style=social)](https://github.com/your-github-username)
 
 ## 🚀 My Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project-2&theme=radical)](https://github.com/your-github-username/project-2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=SMU-UMC-MINI-PROJECT&theme=radical)](https://github.com/your-github-username/SMU-UMC-MINI-PROJECT)
 
 ## 😄 Pronouns
 - He/Him
