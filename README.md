@@ -29,6 +29,9 @@ I'm a passionate back-end programmer June Young Jung from june Young Jung.
 
 SMUPOOL is a carpool service for students at Sangmyung University and provides various functions such as login, registration, bulletin boards and comments, and real-time chat counseling.
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jung0522&repo=Find_Sumoong_diploma&theme=radical)](https://github.com/jung0522/Find_Sumoong_diploma)
+
+Find_Sumoong_diploma is a game using java's GUI package.
 ## 🌟My Programming Language
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jung0522&layout=compact)
