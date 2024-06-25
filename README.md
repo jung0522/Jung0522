@@ -35,8 +35,5 @@ SMUPOOL is a carpool service for students at Sangmyung University and provides v
 
 ## 📈 My GitHub Stats Card
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jung0522&show_icons=true&theme=radical)
 
