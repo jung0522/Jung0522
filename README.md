@@ -7,11 +7,9 @@
 I'm a passionate back-end programmer from Paju. 
 
 ## 🔭 I'm currently working on
-- [Project 1](https://github.com/your-github-username/project-1)
-- [Project 2](https://github.com/your-github-username/project-2)
 
 ## 🌱 I'm currently learning
-- Topic 1
+- Topic 1 node.js
 - Topic 2
 
 ## 📫 How to reach me
@@ -37,9 +35,9 @@ I love creating funny GIFs and memes.
 [![GitHub stars](https://img.shields.io/github/stars/your-github-username?style=social)](https://github.com/your-github-username)
 
 ## 🚀 My Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project-1&theme=radical)](https://github.com/your-github-username/project-1)
+[[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project-1&theme=radical)](https://github.com/your-github-username/project-1)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project-2&theme=radical)](https://github.com/your-github-username/project-2)
-
+](https://github.com/SMU-UMC-MINI-PROJECT)
 ## 😄 Pronouns
 - He/Him
 - She/Her
