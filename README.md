@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" alt="June Young Jung" />
 </p>
 
-# Hello, I'm [Your Name] 👋
+# Hello, I'm June Young Jung 👋
 
-I'm a passionate developer from [Country/City]. I love coding, open-source, and coffee!
+I'm a passionate back-end programmer from Paju. 
 
 ## 🔭 I'm currently working on
 - [Project 1](https://github.com/your-github-username/project-1)
