@@ -15,7 +15,7 @@ I'm a passionate back-end programmer from Paju.
 - Topic 2
 
 ## 📫 How to reach me
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [jjy1111202@naver.com](mailto:jjy1111202@naver.com)
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
 - Twitter: [Your Twitter](https://twitter.com/your-handle)
 
