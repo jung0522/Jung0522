@@ -32,7 +32,7 @@ SMUPOOL is a carpool service for students at Sangmyung University and provides v
 
 ## 🌟My Programming Language
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jung0522&layout=compact)
 
 ## 📈 My GitHub Stats Card
 
