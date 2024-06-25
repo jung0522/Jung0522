@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" alt="Your Title" />
+  <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" alt="June Young Jung" />
 </p>
 
 # Hello, I'm [Your Name] 👋
