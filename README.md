@@ -7,15 +7,15 @@
 I'm a passionate back-end programmer from Paju. 
 
 ## 🔭 I'm currently working on
-
+- UMC 6 challenger (part web)
 ## 🌱 I'm currently learning
 - Topic 1 node.js
-- Topic 2
+- Topic 2 design DB
 
 ## 📫 How to reach me
 - Email: [jjy1111202@naver.com](mailto:jjy1111202@naver.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- Twitter: [Your Twitter](https://twitter.com/your-handle)
+- Profile: [profile](https://www.notion.so/4cccd69bbc824e08b3693aa209b4b206)
+- Instagram: [id: jungjune0](https://www.instagram.com/)
 
 
 ## 🚀 My Projects
