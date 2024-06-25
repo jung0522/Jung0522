@@ -20,7 +20,6 @@ I'm a passionate back-end programmer from Paju.
 
 ## 🚀 My Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SMU-UMC-MINI-PROJECT&repo=SMU_UMC_MINI_PROJECT&theme=radical)](https://github.com/SMU-UMC-MINI-PROJECT/SMU_UMC_MINI_PROJECT)
-SMUPOOL is a carpool service for students at Sangmyung University and provides various functions such as login, registration, bulletin boards and comments, and real-time chat counseling.
 
 ## 😄 Pronouns
 - He/Him
