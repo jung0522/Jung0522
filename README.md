@@ -25,7 +25,7 @@ I'm a passionate back-end programmer June Young Jung from june Young Jung.
 
 ## 🚀 My Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UMC6th-Wit&repo=Wit&theme=radical)(https://github.com/UMC6th-Wit))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UMC6th-Wit&repo=Wit&theme=radical)](https://github.com/UMC6th-Wit/Wit)
 
 Wit is made for a growing number of overseas travelers. It is a shopping mall service that allows you to check information on overseas travel products, write reviews, and check people's product reviews. It also has various functions, so check them out. you can check information on Japanese travel products by referring to Don Quixote's website, and we are discussing with the project team about additional functions to be developed.
 
