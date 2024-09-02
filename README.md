@@ -29,7 +29,7 @@ I'm a passionate back-end programmer June Young Jung from june Young Jung.
 
 Wit is made for a growing number of overseas travelers. It is a shopping mall service that allows you to check information on overseas travel products, write reviews, and check people's product reviews. It also has various functions, so check them out. you can check information on Japanese travel products by referring to Don Quixote's website, and we are discussing with the project team about additional functions to be developed.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?&repo=SMU_UMC_MINI_PROJECT&theme=radical)](https://github.com/SMU-UMC-MINI-PROJECT/SMU_UMC_MINI_PROJECT)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jung0522&repo=SMU_UMC_MINI_PROJECT&theme=radical)](https://github.com/SMU-UMC-MINI-PROJECT/SMU_UMC_MINI_PROJECT)
 
 SMUPOOL is a carpool service for students at Sangmyung University and provides various functions such as login, registration, bulletin boards and comments, and real-time chat counseling.
 
