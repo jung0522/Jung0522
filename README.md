@@ -8,12 +8,12 @@ I'm a passionate back-end programmer June Young Jung from june Young Jung.
 
 ## 🔭 I'm currently working on
 
-- UMC 6 challenger (part web)
+- Sangmyung University 3th grade 2 semmester
 
 ## 🌱 I'm currently learning
 
-- Topic 1 node.js
-- Topic 2 design DB
+- Topic 1 UNIX
+- Topic 2 JAVA
 
 ## 📫 How to reach me
 
