@@ -1,5 +1,6 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" alt="June Young Jung" />
+![image](https://github.com/user-attachments/assets/1d932539-46ff-495c-bcc4-bb571399f0d6)<p align="center">
+  <img src="![Uploading image.png…]()
+" alt="June Young Jung" />
 </p>
 
 # Hello, I'm June Young Jung 👋
