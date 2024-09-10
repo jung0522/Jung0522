@@ -1,6 +1,5 @@
-![image](https://github.com/user-attachments/assets/1d932539-46ff-495c-bcc4-bb571399f0d6)<p align="center">
-  <img src="![Uploading image.png…]()
-" alt="June Young Jung" />
+![image](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHp6bmtjZmJieXdoN2kwcnBla29tdTQ1dDh2Y3lzc2xhN21tZTN6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif)<p align="center">
+  " alt="June Young Jung" />
 </p>
 
 # Hello, I'm June Young Jung 👋
