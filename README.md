@@ -33,7 +33,7 @@ Wit is made for a growing number of overseas travelers. It is a shopping mall se
 
 SMUPOOL is a carpool service for students at Sangmyung University and provides various functions such as login, registration, bulletin boards and comments, and real-time chat counseling.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jung052&repo=Find_Sumoong_diploma&theme=radical)](https://github.com/jung0522/Find_Sumoong_diploma)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jung0522&repo=Find_Sumoong_diploma&theme=radical)](https://github.com/jung0522/Find_Sumoong_diploma)
 
 Find_Sumoong_diploma is a game using java's GUI package.
 
