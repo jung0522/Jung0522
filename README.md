@@ -4,7 +4,7 @@
 
 # Hello, I'm June Young Jung 👋
 
-I'm a passionate back-end programmer June Young Jung from june Young Jung. 
+I'm a passionate back-end programmer June Young Jung. 
 
 ## 🔭 I'm currently working on
 
