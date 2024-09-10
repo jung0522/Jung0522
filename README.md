@@ -13,7 +13,7 @@ I'm a passionate back-end programmer June Young Jung.
 ## 🌱 I'm currently learning
 
 - Topic 1 UNIX
-- Topic 2 Java
+- Topic 2 Spring Boot
 
 ## 📫 How to reach me
 
