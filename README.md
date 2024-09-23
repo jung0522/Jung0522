@@ -6,9 +6,14 @@
 
 I'm a passionate back-end programmer June Young Jung. 
 
+## 🎓 Education
+
+- **Sangmyung University**
+  3rd Grade, 2nd Semester (major in computer science)
+
 ## 🔭 I'm currently working on
 
-- Sangmyung University 3th grade 2 semmester
+- 
 
 ## 🌱 I'm currently learning
 
