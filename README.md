@@ -19,7 +19,7 @@ I'm a passionate back-end programmer June Young Jung.
 
 - Email: [jjy1111202@naver.com](mailto:jjy1111202@naver.com)
 - Profile: [profile](https://www.notion.so/4cccd69bbc824e08b3693aa209b4b206)
-- Instagram: [id: jungjune0](https://www.instagram.com/)
+- Instagram: [id: jungjune0](https://www.instagram.com/jungjune0/)
 
 
 
