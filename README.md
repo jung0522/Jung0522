@@ -13,7 +13,7 @@ I'm a passionate back-end programmer.
 
 ## 🔭 I'm currently working on
 
-- 
+- part-time job at a board game cafe.
 
 ## 🌱 I'm currently learning
 
