@@ -48,7 +48,6 @@ Find_Sumoong_diploma is a game using java's GUI package.
 
 ## 🛠 Tech Stack
 
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -60,6 +59,9 @@ Find_Sumoong_diploma is a game using java's GUI package.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![UNIX](https://img.shields.io/badge/UNIX-000000?style=for-the-badge&logo=unix&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![H2](https://img.shields.io/badge/H2-4E1F19?style=for-the-badge&logo=h2database&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
 
 
 ## 📈 My GitHub Stats Card
