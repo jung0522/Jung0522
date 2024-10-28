@@ -25,6 +25,11 @@ I'm a passionate back-end programmer.
 - Email: [jjy1111202@naver.com](mailto:jjy1111202@naver.com)
 - Profile: [profile](https://www.notion.so/4cccd69bbc824e08b3693aa209b4b206)
 - Instagram: [jungjune0](https://www.instagram.com/jungjune0/)
+- Blog: [Naver Blog](https://blog.naver.com/jungjune0)
+
+## 📕 Latest Blog Posts
+
+- [Start Blog!!]([@your_blog_url_1](https://blog.naver.com/jungjune0)) 블로그를 시작하며 🚀
 
 
 
