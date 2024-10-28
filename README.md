@@ -29,7 +29,7 @@ I'm a passionate back-end programmer.
 
 ## 📕 Latest Blog Posts
 
-- [Start Blog!!](https://blog.naver.com/jungjune0) 블로그를 시작하며 🚀
+- [블로그를 시작하며 🚀](https://blog.naver.com/jungjune0/223636556968) 
 
 
 
