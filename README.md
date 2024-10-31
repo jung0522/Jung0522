@@ -29,6 +29,7 @@ I'm a passionate back-end programmer.
 
 ## 📕 Latest Blog Posts
 
+- [Apple Face ID VS Galaxy Face Recognition 📷😊](https://blog.naver.com/jungjune0/223640970514)
 - [블로그를 시작하며 🚀](https://blog.naver.com/jungjune0/223636556968) 
 - [@Controller와 @RestController는 무슨 차이가 있을까?](https://blog.naver.com/jungjune0/223636706358)
 
