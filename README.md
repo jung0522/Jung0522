@@ -29,7 +29,7 @@ I'm a passionate back-end programmer.
 
 ## 📕 Latest Blog Posts
 
-- [kernel panic not syncing ⚠️]((https://blog.naver.com/jungjune0/223665153072))
+- [kernel panic not syncing ⚠️](https://blog.naver.com/jungjune0/223665153072)
 - [🌐 도커(Docker)를 사용하는 이유는 무엇일까?](https://blog.naver.com/jungjune0/223658680682)
 - [Apple Face ID VS Galaxy Face Recognition 📷😊](https://blog.naver.com/jungjune0/223640970514)
 - [@Controller와 @RestController는 무슨 차이가 있을까?](https://blog.naver.com/jungjune0/223636706358)
