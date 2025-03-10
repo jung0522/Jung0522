@@ -27,13 +27,13 @@ I'm a passionate back-end programmer.
 - Instagram: [jungjune0](https://www.instagram.com/jungjune0/)
 - Blog: [준영이의 헬로 월드](https://blog.naver.com/jungjune0)
 
-## 📕 Latest Blog Posts
+## 📕 My Blog Posts
 
+- [🤗 Intellij 초기 설정과 플러그인 !!](https://blog.naver.com/jungjune0/223759178405)
 - [kernel panic not syncing ⚠️](https://blog.naver.com/jungjune0/223665153072)
 - [🌐 도커(Docker)를 사용하는 이유는 무엇일까?](https://blog.naver.com/jungjune0/223658680682)
 - [Apple Face ID VS Galaxy Face Recognition 📷😊](https://blog.naver.com/jungjune0/223640970514)
 - [@Controller와 @RestController는 무슨 차이가 있을까?](https://blog.naver.com/jungjune0/223636706358)
-- [블로그를 시작하며 🚀](https://blog.naver.com/jungjune0/223636556968) 
 
 
 ## 🚀 My Projects
