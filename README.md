@@ -18,7 +18,7 @@ I'm a passionate back-end programmer.
 ## 🌱 I'm currently learning
 
 - Topic 1 Spring Boot
-- Topic 2 UNIX
+- Topic 2 LLM
 
 ## 📫 How to reach me
 
