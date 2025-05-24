@@ -38,15 +38,15 @@ I'm a passionate back-end programmer.
 
 ## 🚀 My Projects
 
-[![Organization](https://img.shields.io/badge/GitHub-UMC6th--Wit-blue?style=for-the-badge&logo=github)](https://github.com/UMC6th-Wit)
+[![Organization](https://img.shields.io/badge/GitHub-Wit-Online-Shopping-Mall-blue?style=for-the-badge&logo=github)](https://github.com/UMC6th-Wit)
 
 Wit is made for a growing number of overseas travelers. It is a home shopping service that allows you to check information on overseas travel products, write reviews, and check people's product reviews. It also has various functions, so check them out. you can check information on Japanese travel products by referring to Don Quixote's website, and we are discussing with the project team about additional functions to be developed.
 
-[![Organization](https://img.shields.io/badge/GitHub-SMU--UMC--MINI--PROJECT-blue?style=for-the-badge&logo=github)](https://github.com/SMU-UMC-MINI-PROJECT)
+[![Organization](https://img.shields.io/badge/GitHub-SMU--UMC--PROJECT-blue?style=for-the-badge&logo=github)](https://github.com/SMU-UMC-MINI-PROJECT)
 
 SMUPOOL is a carpool service for students at Sangmyung University and provides various functions such as login, registration, bulletin boards and comments, and real-time chat counseling.
 
-[![Organization](https://img.shields.io/badge/GitHub-SMU--Chatbot-blue?style=for-the-badge&logo=github)](https://github.com/SMU-Chatbot)
+[![Organization](https://img.shields.io/badge/GitHub-SAMI-blue?style=for-the-badge&logo=github)](https://github.com/SMU-Chatbot)
 
 SMU-Chatbot is a RAG-based LLM chatbot project for SMU student services. It integrates LangChain, Pinecone, and Spring Boot for seamless AI interactions.
 
