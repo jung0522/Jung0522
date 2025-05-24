@@ -64,7 +64,6 @@ Find_Sumoong_diploma is a game using java's GUI package.
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
 
 <!-- Languages -->
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
