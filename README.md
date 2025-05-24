@@ -46,7 +46,7 @@ Wit is made for a growing number of overseas travelers. It is a home shopping se
 
 SMUPOOL is a carpool service for students at Sangmyung University and provides various functions such as login, registration, bulletin boards and comments, and real-time chat counseling.
 
-[![Organization](https://img.shields.io/badge/GitHub-SAMI-blue?style=for-the-badge&logo=github)](https://github.com/SMU-Chatbot)
+[![Organization](https://img.shields.io/badge/GitHub-SAMI--Sangmyung--University--AI--ChatBot-blue?style=for-the-badge&logo=github)](https://github.com/SMU-Chatbot)
 
 SMU-Chatbot is a RAG-based LLM chatbot project for SMU student services. It integrates LangChain, Pinecone, and Spring Boot for seamless AI interactions.
 
