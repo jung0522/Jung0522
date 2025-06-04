@@ -23,7 +23,7 @@ I'm a passionate back-end programmer.
 ## 📫 How to reach me
 
 - Email: [jjy1111202@naver.com](mailto:jjy1111202@naver.com)
-- Notion: [Notion](https://www.notion.so/4cccd69bbc824e08b3693aa209b4b206)
+- Notion: [Notion](https://reflective-gruyere-28d.notion.site/1e8844bc141a8020a1dee3f6d60d0743?pvs=73)
 - Instagram: [jungjune0](https://www.instagram.com/jungjune0/)
 - Blog: [준영이의 헬로 월드](https://blog.naver.com/jungjune0)
 
