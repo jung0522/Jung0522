@@ -32,7 +32,7 @@ I'm a passionate back-end programmer.
 - [☁️ 구글 클라우드(GCP) + 🐳 Docker를 이용한 서버 배포 (1)](https://blog.naver.com/jungjune0/223881511617)
 - [🤗 Intellij 초기 설정과 플러그인 !!](https://blog.naver.com/jungjune0/223759178405)
 - [kernel panic not syncing ⚠️](https://blog.naver.com/jungjune0/223665153072)
-- [🌐 도커(Docker)를 사용하는 이유는 무엇일까?](https://blog.naver.com/jungjune0/223658680682)
+- [🐳 도커(Docker)를 사용하는 이유는 무엇일까?](https://blog.naver.com/jungjune0/223658680682)
 - [Apple Face ID VS Galaxy Face Recognition 📷😊](https://blog.naver.com/jungjune0/223640970514)
 - [@Controller와 @RestController는 무슨 차이가 있을까?](https://blog.naver.com/jungjune0/223636706358)
 
