@@ -2,9 +2,9 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHp6bmtjZmJieXdoN2kwcnBla29tdTQ1dDh2Y3lzc2xhN21tZTN6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" alt="Cat programming GIF">
 </p>
 
-# Hello, World I'm SW Programmer June Young Jung 👋
+# Hello, World I'm Back-End Developer June Young Jung 👋
 
-I'm a passionate back-end programmer. 
+I'm a passionate back-end developer. 
 
 ## 🎓 Education
 
@@ -13,7 +13,7 @@ I'm a passionate back-end programmer.
 
 ## 🔭 I'm currently working on
 
-- [kaka x 9roomthon] I am participating in a Univ union project as a Back-End programmer.
+- [kaka x 9roomthon] I am participating in a Univ union project as a Back-End developer.
 
 ## 🌱 I'm currently learning
 
