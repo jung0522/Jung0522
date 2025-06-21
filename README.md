@@ -9,7 +9,7 @@ I'm a passionate back-end programmer.
 ## 🎓 Education
 
 - **Sangmyung University**
-  3rd Grade, 2nd Semester (major in computer science)
+  4th Grade, 2st Semester (major in computer science)
 
 ## 🔭 I'm currently working on
 
