@@ -13,7 +13,7 @@ I'm a passionate back-end programmer.
 
 ## 🔭 I'm currently working on
 
-- part-time job at a board game cafe.
+- [kaka x 9roomthon] I am participating in a Univ union project as a Back-End programmer.
 
 ## 🌱 I'm currently learning
 
