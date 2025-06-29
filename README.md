@@ -29,6 +29,8 @@ I'm a passionate back-end developer.
 
 ## 📕 My Blog Posts
 
+- [🛠️ CI/CD 파이프라인 구축](https://blog.naver.com/jungjune0/223915356254)
+- [☁️ 구글 클라우드(GCP) + 🐳 Docker를 이용한 서버 배포 (2)](https://blog.naver.com/jungjune0/223913173033)
 - [☁️ 구글 클라우드(GCP) + 🐳 Docker를 이용한 서버 배포 (1)](https://blog.naver.com/jungjune0/223881511617)
 - [🤗 Intellij 초기 설정과 플러그인 !!](https://blog.naver.com/jungjune0/223759178405)
 - [kernel panic not syncing ⚠️](https://blog.naver.com/jungjune0/223665153072)
