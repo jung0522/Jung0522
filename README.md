@@ -30,9 +30,11 @@ I'm a passionate back-end developer.
 
 ## 📕 My Blog Posts
 
-- [🛠️ CI/CD 파이프라인 구축](https://blog.naver.com/jungjune0/223915356254)
+- [🛠️ CI/CD 파이프라인 구축](https://blog.naver.com/jungjune0/223917247112)
 - [☁️ 구글 클라우드(GCP) + 🐳 Docker를 이용한 서버 배포 (2)](https://blog.naver.com/jungjune0/223913173033)
 - [☁️ 구글 클라우드(GCP) + 🐳 Docker를 이용한 서버 배포 (1)](https://blog.naver.com/jungjune0/223881511617)
+- [스프링 부트 소셜(카카오) 로그인 구현](https://blog.naver.com/jungjune0/223917418297)
+- [❓ 인텔리제이 갑자기 빨간 줄 생겼을 때](https://blog.naver.com/jungjune0/223915356254)
 - [🤗 Intellij 초기 설정과 플러그인 !!](https://blog.naver.com/jungjune0/223759178405)
 - [kernel panic not syncing ⚠️](https://blog.naver.com/jungjune0/223665153072)
 - [🐳 도커(Docker)를 사용하는 이유는 무엇일까?](https://blog.naver.com/jungjune0/223658680682)
