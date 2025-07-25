@@ -18,7 +18,7 @@ I'm a passionate back-end developer.
 
 ## 🌱 I'm currently learning
 
-- Topic 1 MCP Server
+- Topic 1 front-end for full-stack
 - Topic 2 LLM 
 
 ## 📫 How to reach me
