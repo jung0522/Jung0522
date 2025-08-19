@@ -13,8 +13,8 @@ I'm a passionate back-end developer.
 
 ## 🔭 I'm currently working on
 
-- [kaka x 9roomthon] I am participating in a Univ union project as a Back-End developer.
-- [KT x 9room] I am participating in a Deepdive Back-End 5th.
+- [kaka x 9oormthon] I am participating in a Univ union project as a Back-End developer.
+- [KT x 9oorm] I am participating in a Deepdive Back-End 5th.
 
 ## 🌱 I'm currently learning
 
