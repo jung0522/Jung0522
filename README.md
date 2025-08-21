@@ -30,7 +30,10 @@ I'm a passionate back-end developer.
 
 ## 📕 My Blog Posts
 
-- [🛠️ CI/CD 파이프라인 구축](https://blog.naver.com/jungjune0/223917247112)
+- [☸️ 쿠버네티스(K8s)](https://blog.naver.com/jungjune0/223978997353)
+- [☁️ Spring Boot 프로젝트에서 MSA 실습 (Spring Cloud) (1)](https://blog.naver.com/jungjune0/223978941737)
+- [스프링 부트 소셜(카카오) 로그인 구현](https://blog.naver.com/jungjune0/223917418297)
+- [🛠️ CI/CD 파이프라인 구축](https://blog.naver.com/jungjune0/223915356254)
 - [☁️ 구글 클라우드(GCP) + 🐳 Docker를 이용한 서버 배포 (2)](https://blog.naver.com/jungjune0/223913173033)
 - [☁️ 구글 클라우드(GCP) + 🐳 Docker를 이용한 서버 배포 (1)](https://blog.naver.com/jungjune0/223881511617)
 - [스프링 부트 소셜(카카오) 로그인 구현](https://blog.naver.com/jungjune0/223917418297)
