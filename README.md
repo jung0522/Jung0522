@@ -2,9 +2,19 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHp6bmtjZmJieXdoN2kwcnBla29tdTQ1dDh2Y3lzc2xhN21tZTN6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" alt="Cat programming GIF">
 </p>
 
-# Hello, World I'm Back-End Developer June Young Jung 👋
+# Hello, World I'm a passionate back-end developer June Young Jung. 👋
 
-I'm a passionate back-end developer. 
+ 
+제가 개발하는 모습을 나타내는 세 가지 키워드는 열정, 끈기, 꼼꼼함입니다.
+
+1. 열정
+개발에 빠지게 된 계기입니다. 끼니를 거르고 밤낮을 가리지 않고 노력한 끝에 목표했던 애플리케이션을 완성했을 때의 뿌듯함은 저에게 개발자가 되고자 하는 꿈을 갖게 해주었습니다. 저는 다양한 프로젝트에서 백엔드 개발자로 참여하며 열정을 가지고 개발에 몰두한 경험을 갖고 있습니다.
+
+2. 끈기
+저는 UMC IT 연합 동아리를 통해 상명대학교 재학생 대상 카풀 애플리케이션 SMU POOL 프로젝트에 백엔드 개발자로 참여했습니다. 처음에는 계획한 대로 로직이 작동하지 않아 어려움을 겪었지만, 포기하지 않고 팀원의 피드백을 참고하며 로직을 재설계하여 결국 기능 구현에 성공했습니다. 저는 직접 겪은 이 경험을 통해 끈기를 가지고 끝까지 노력하면 반드시 목표를 달성할 수 있다는 점을 배웠습니다.
+
+3. 꼼꼼함
+제가 개발한 것이 올바른지 확신이 서지 않을 때가 있어, 항상 다시 한 번 검토하는 습관을 갖고 있습니다. 이러한 저의 성격 덕분에 예상치 못한 오류나 보안 취약점까지 고려하며 꼼꼼하게 개발하는 자세를 갖게 되었습니다. 저는 한 번 더 검토하는 개발자입니다.
 
 ## 🎓 Education
 
