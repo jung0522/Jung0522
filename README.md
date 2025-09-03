@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About me
 
-- Notion: [Notion](https://reflective-gruyere-28d.notion.site/1e8844bc141a8020a1dee3f6d60d0743?pvs=73)
+- Notion: [준영의 포트폴리오](https://reflective-gruyere-28d.notion.site/1e8844bc141a8020a1dee3f6d60d0743?pvs=73)
   
 ## 🎓 Education
 
