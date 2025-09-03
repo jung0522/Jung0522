@@ -16,6 +16,10 @@
 3. 꼼꼼함
 제가 개발한 것이 올바른지 확신이 서지 않을 때가 있어, 항상 다시 한 번 검토하는 습관을 갖고 있습니다. 이러한 저의 성격 덕분에 예상치 못한 오류나 보안 취약점까지 고려하며 꼼꼼하게 개발하는 자세를 갖게 되었습니다. 저는 한 번 더 검토하는 개발자입니다.
 
+## 👨‍💻 About me
+
+- Notion: [Notion](https://reflective-gruyere-28d.notion.site/1e8844bc141a8020a1dee3f6d60d0743?pvs=73)
+  
 ## 🎓 Education
 
 - **Sangmyung University**
@@ -34,7 +38,6 @@
 ## 📫 How to reach me
 
 - Email: [jjy1111202@naver.com](mailto:jjy1111202@naver.com)
-- Notion: [Notion](https://reflective-gruyere-28d.notion.site/1e8844bc141a8020a1dee3f6d60d0743?pvs=73)
 - Instagram: [jungjune0](https://www.instagram.com/jungjune0/)
 - Blog: [준영이의 헬로 월드](https://blog.naver.com/jungjune0)
 
