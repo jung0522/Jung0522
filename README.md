@@ -64,7 +64,7 @@
 
 Wit is made for a growing number of overseas travelers. It is a home shopping service that allows you to check information on overseas travel products, write reviews, and check people's product reviews. It also has various functions, so check them out. you can check information on Japanese travel products by referring to Don Quixote's website, and we are discussing with the project team about additional functions to be developed.
 
-[![Organization](https://img.shields.io/badge/GitHub-CommitProfile-back-blue?style=for-the-badge&logo=github)](https://github.com/CommitProfile)
+[![Organization](https://img.shields.io/badge/GitHub-CommitProfile-back-blue?style=for-the-badge&logo=github)](https://github.com/CommitProfile/CommitProfile)
 
 CommitProfile is an application for developers that helps with portfolio creation by retrieving their GitHub repositories, descriptions, issues, pull requests, commits, and other GitHub activity.
 
