@@ -42,7 +42,9 @@
 - Blog: [준영이의 헬로 월드](https://blog.naver.com/jungjune0)
 
 ## 📕 My Blog Posts
-
+- [☁️ Spring Boot 프로젝트에서 MSA 실습 (Kafka) (3)](https://blog.naver.com/jungjune0/224003342477)
+- [MyBatis(부제: vs JPA)](https://blog.naver.com/jungjune0/224002435515)
+- [☁️ Spring Boot 프로젝트에서 MSA 실습 (Kafka) (2)](https://blog.naver.com/jungjune0/224002001963)
 - [☸️ 쿠버네티스(K8s)](https://blog.naver.com/jungjune0/223978997353)
 - [☁️ Spring Boot 프로젝트에서 MSA 실습 (Spring Cloud) (1)](https://blog.naver.com/jungjune0/223978941737)
 - [스프링 부트 소셜(카카오) 로그인 구현](https://blog.naver.com/jungjune0/223917418297)
