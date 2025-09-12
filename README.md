@@ -42,6 +42,7 @@
 - Blog: [준영이의 헬로 월드](https://blog.naver.com/jungjune0)
 
 ## 📕 My Blog Posts
+- [🐘 PostgreSQL](https://blog.naver.com/jungjune0/224005015064)
 - [☁️ Spring Boot 프로젝트에서 MSA 실습 (Kafka) (3)](https://blog.naver.com/jungjune0/224003342477)
 - [MyBatis(부제: vs JPA)](https://blog.naver.com/jungjune0/224002435515)
 - [☁️ Spring Boot 프로젝트에서 MSA 실습 (Kafka) (2)](https://blog.naver.com/jungjune0/224002001963)
