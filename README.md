@@ -42,6 +42,7 @@
 - Blog: [준영이의 헬로 월드](https://blog.naver.com/jungjune0)
 
 ## 📕 My Blog Posts
+- [📦 DTO 변환 방식 비교 (Builder vs BeanUtils) & 데이터 변환 방식 (Stream vs for문)](https://blog.naver.com/jungjune0/224014184878)
 - [🐘 PostgreSQL](https://blog.naver.com/jungjune0/224005015064)
 - [☁️ Spring Boot 프로젝트에서 MSA 실습 (Kafka) (3)](https://blog.naver.com/jungjune0/224003342477)
 - [MyBatis(부제: vs JPA)](https://blog.naver.com/jungjune0/224002435515)
