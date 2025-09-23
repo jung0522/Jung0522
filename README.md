@@ -42,7 +42,7 @@
 - Blog: [준영이의 헬로 월드](https://blog.naver.com/jungjune0)
 
 ## 📕 My Blog Posts
-- [🖥️ 테스트 코드 작성](https://blog.naver.com/jungjune0/224018535139)
+- [🖥️ 테스트 코드 작성 요령!!](https://blog.naver.com/jungjune0/224018535139)
 - [📦 DTO 변환 방식 비교 (Builder vs BeanUtils) & 데이터 변환 방식 (Stream vs for문)](https://blog.naver.com/jungjune0/224014184878)
 - [소셜 로그인(카카오, 네이버, 구글) 구현(Spring Security + Oauth2)](https://blog.naver.com/jungjune0/224006022219)
 - [🐘 PostgreSQL](https://blog.naver.com/jungjune0/224005015064)
