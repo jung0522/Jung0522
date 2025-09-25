@@ -42,14 +42,14 @@
 - Blog: [준영이의 헬로 월드](https://blog.naver.com/jungjune0)
 
 ## 📕 My Blog Posts
+- [☁️ Spring Boot 프로젝트에서 MSA 실습 (Kafka) (3)](https://blog.naver.com/jungjune0/224003342477)
+- [☁️ Spring Boot 프로젝트에서 MSA 실습 (Kafka) (2)](https://blog.naver.com/jungjune0/224002001963)
 - [🌀 AOP로 로그와 트랜잭션 관리 ](https://blog.naver.com/jungjune0/224019842776)
 - [🖥️ 테스트 코드 작성 요령!!](https://blog.naver.com/jungjune0/224018535139)
 - [📦 DTO 변환 방식 비교 (Builder vs BeanUtils) & 데이터 변환 방식 (Stream vs for문)](https://blog.naver.com/jungjune0/224014184878)
 - [소셜 로그인(카카오, 네이버, 구글) 구현(Spring Security + Oauth2)](https://blog.naver.com/jungjune0/224006022219)
 - [🐘 PostgreSQL](https://blog.naver.com/jungjune0/224005015064)
-- [☁️ Spring Boot 프로젝트에서 MSA 실습 (Kafka) (3)](https://blog.naver.com/jungjune0/224003342477)
 - [MyBatis(부제: vs JPA)](https://blog.naver.com/jungjune0/224002435515)
-- [☁️ Spring Boot 프로젝트에서 MSA 실습 (Kafka) (2)](https://blog.naver.com/jungjune0/224002001963)
 - [☸️ 쿠버네티스(K8s)](https://blog.naver.com/jungjune0/223978997353)
 - [☁️ Spring Boot 프로젝트에서 MSA 실습 (Spring Cloud) (1)](https://blog.naver.com/jungjune0/223978941737)
 - [스프링 부트 소셜(카카오) 로그인 구현](https://blog.naver.com/jungjune0/223917418297)
