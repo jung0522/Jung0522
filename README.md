@@ -32,8 +32,7 @@
 
 ## 🌱 I'm currently learning
 
-- Topic 1 front-end for full-stack
-- Topic 2 LLM 
+- Topic 1 Spring Batch
 
 ## 📫 How to reach me
 
