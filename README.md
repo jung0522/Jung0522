@@ -93,7 +93,7 @@ LangChain, Pinecone, Spring Boot를 통합하여 AI와 원활하게 상호작용
 
 [![Organization](https://img.shields.io/badge/GitHub-UNIV--Spring--Study-blue?style=for-the-badge&logo=github)](https://github.com/UNIV-Spring-Study)
 
-**UNIV Spring Study** - Spring Boot 공동 학습 프로젝트
+**UNIV Spring Study** - Spring Security와 OAuth2를 이용한 소셯 로그인(kakao, naver, google), Jwt 토큰 인증과 csrf/xss 공격 방어 등을 구현한 나만의 개발 실습형 프로젝트
 
 [![Organization](https://img.shields.io/badge/GitHub-Find_Sumoong_diploma-blue?style=for-the-badge&logo=github)](https://github.com/jung0522/Find_Sumoong_diploma)
 
