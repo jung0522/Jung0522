@@ -112,7 +112,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jung0522&layout=compact)
 
-## 🛠 Tech Stack
+## 🛠 My personally used Tech Stack
 
 <!-- Languages -->
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
