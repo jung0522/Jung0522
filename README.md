@@ -95,10 +95,7 @@ LangChain, Pinecone, Spring Boot를 통합하여 AI와 원활하게 상호작용
 
 **UNIV Spring Study** - Spring Boot 공동 학습 프로젝트
 
-[![Organization](https://github-readme-stats.vercel.app/api/pin/?username=jung0522&repo=Find_Sumoong_diploma&theme=radical)](https://github.com/jung0522/Find_Sumoong_diploma)
-
-**Find_Sumoong_diploma** - Java GUI 기반 게임
-
+[![Organization](https://img.shields.io/badge/GitHub-Find_Sumoong_diploma-blue?style=for-the-badge&logo=github)](https://github.com/jung0522/Find_Sumoong_diploma)
 
 **Find_Sumoong_diploma** - Java GUI 기반 게임
 
