@@ -66,29 +66,41 @@
 
 ## 🚀 My Projects
 
+## 🚀 My Projects
+
+[![Organization](https://img.shields.io/badge/GitHub-GluCareLLM--단짝이-blue?style=for-the-badge&logo=github)](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_4_BE)
+
+**단짝이(GluCareLLM)** - 1형 당뇨 아동을 위한 게이미피케이션 기반 자기관리 플랫폼  
+단짝이는 짧은 주기로 혈당 측정이 필요한 1형 당뇨 아동을 위해 개발된 프로젝트이다. 아이에게는 놀이처럼 LLM 기반 맞춤형 퀘스트를 제공하여 혈당 측정과 자기관리를 자연스럽게 유도하며, 부모에게는 보호자 화면을 통해 종합적인 수치와 시간에 따른 변화를 모니터링할 수 있도록 구성하였다.  
+
 [![Organization](https://img.shields.io/badge/GitHub-Wit--Online--ShoppingMall-blue?style=for-the-badge&logo=github)](https://github.com/UMC6th-Wit)
 
-Wit is made for a growing number of overseas travelers. It is a home shopping service that allows you to check information on overseas travel products, write reviews, and check people's product reviews. It also has various functions, so check them out. you can check information on Japanese travel products by referring to Don Quixote's website, and we are discussing with the project team about additional functions to be developed.
+**Wit** - 해외 여행 관련 홈쇼핑 서비스  
+Wit은 해외 여행 상품 정보를 확인하고, 리뷰를 작성하며, 다른 사람들의 리뷰를 확인할 수 있는 서비스이다. 일본 여행 상품 정보는 돈키호테 웹사이트를 참고할 수 있으며, 추가 기능 개발도 계획 중이다.
 
 [![GitHub - CommitProfile](https://img.shields.io/badge/GitHub-CommitProfile-blue?style=for-the-badge&logo=github)](https://github.com/CommitProfile)
 
-CommitProfile is an application for developers that helps with portfolio creation by retrieving their GitHub repositories, descriptions, issues, pull requests, commits, and other GitHub activity.
+**CommitProfile** - 개발자 포트폴리오 도구  
+개발자가 자신의 GitHub 저장소, 설명, 이슈, 풀 리퀘스트, 커밋 등 활동을 조회하여 포트폴리오를 쉽게 생성할 수 있도록 돕는 애플리케이션이다.
 
 [![Organization](https://img.shields.io/badge/GitHub-SMU--UMC--PROJECT-blue?style=for-the-badge&logo=github)](https://github.com/SMU-UMC-MINI-PROJECT)
 
-SMUPOOL is a carpool service for students at Sangmyung University and provides various functions such as login, registration, bulletin boards and comments, and real-time chat counseling.
+**SMUPOOL** - 상명대학교 학생 대상 카풀 서비스  
+로그인, 회원가입, 게시판 및 댓글 기능과 실시간 채팅 상담 등 다양한 기능을 제공한다.
 
 [![Organization](https://img.shields.io/badge/GitHub-SAMI--Sangmyung--University--AI--ChatBot-blue?style=for-the-badge&logo=github)](https://github.com/SMU-Chatbot)
 
-SMU-Chatbot is a RAG-based LLM chatbot project for SMU student services. It integrates LangChain, Pinecone, and Spring Boot for seamless AI interactions.
+**SMU-Chatbot** - 상명대학교용 RAG 기반 LLM 챗봇  
+LangChain, Pinecone, Spring Boot를 통합하여 AI와 원활하게 상호작용할 수 있도록 구현하였다.
 
 [![Organization](https://img.shields.io/badge/GitHub-UNIV--Spring--Study-blue?style=for-the-badge&logo=github)](https://github.com/UNIV-Spring-Study)
 
-This project is for collaborative Spring Boot study sessions.
+**UNIV Spring Study** - Spring Boot 공동 학습 프로젝트
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jung0522&repo=Find_Sumoong_diploma&theme=radical)](https://github.com/jung0522/Find_Sumoong_diploma)
 
-Find_Sumoong_diploma is a game using java's GUI package.
+**Find_Sumoong_diploma** - Java GUI 기반 게임
+
 
 ## 🌟My Programming Language
 
