@@ -66,38 +66,46 @@
 
 ## 🚀 My Projects
 
-[![Organization](https://img.shields.io/badge/GitHub-GluCareLLM--단짝이-blue?style=for-the-badge&logo=github)](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_4_BE)
-
+[![Organization](https://img.shields.io/badge/GitHub-GluCareLLM--단짝이-blue?style=for-the-badge&logo=github)](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_4_BE)  
 **단짝이(GluCareLLM)** - 1형 당뇨 아동을 위한 게이미피케이션 기반 자기관리 플랫폼  
-단짝이는 짧은 주기로 혈당 측정이 필요한 1형 당뇨 아동을 위해 개발된 프로젝트이다. 아이에게는 놀이처럼 LLM 기반 맞춤형 퀘스트를 제공하여 혈당 측정과 자기관리를 자연스럽게 유도하며, 부모에게는 보호자 화면을 통해 종합적인 수치와 시간에 따른 변화를 모니터링할 수 있도록 구성하였다.  
+- LLM 기반 맞춤형 퀘스트 제공으로 혈당 측정과 자기관리를 놀이처럼 유도  
+- 보호자 화면에서 종합 수치 및 시간별 변화 모니터링 가능  
+- **수상**: [2025 Kakao X 9oorm 시즌톤] 4팀 우수상, 특별상(LottieFiles) 🏆
 
-[![Organization](https://img.shields.io/badge/GitHub-Wit--Online--ShoppingMall-blue?style=for-the-badge&logo=github)](https://github.com/UMC6th-Wit)
-
+[![Organization](https://img.shields.io/badge/GitHub-Wit--Online--ShoppingMall-blue?style=for-the-badge&logo=github)](https://github.com/UMC6th-Wit)  
 **Wit** - 해외 여행 관련 홈쇼핑 서비스  
-Wit은 해외 여행 상품 정보를 확인하고, 리뷰를 작성하며, 다른 사람들의 리뷰를 확인할 수 있는 서비스이다. 일본 여행 상품 정보는 돈키호테 웹사이트를 참고할 수 있으며, 추가 기능 개발도 계획 중이다.
+- 해외 여행 상품 정보 확인, 리뷰 작성 및 조회 기능 제공  
+- 일본 여행 상품 정보는 돈키호테 웹사이트 참고  
+- **프로젝트 배경**: UMC IT 연합 동아리 정규 프로젝트
 
-[![GitHub - CommitProfile](https://img.shields.io/badge/GitHub-CommitProfile-blue?style=for-the-badge&logo=github)](https://github.com/CommitProfile)
-
+[![GitHub - CommitProfile](https://img.shields.io/badge/GitHub-CommitProfile-blue?style=for-the-badge&logo=github)](https://github.com/CommitProfile)  
 **CommitProfile** - 개발자 포트폴리오 도구  
-개발자가 자신의 GitHub 저장소, 설명, 이슈, 풀 리퀘스트, 커밋 등 활동을 조회하여 포트폴리오를 쉽게 생성할 수 있도록 돕는 애플리케이션이다.
+- GitHub 저장소, 설명, 이슈, PR, 커밋 등 활동 기반 포트폴리오 생성 지원  
+- **프로젝트 배경**: [Kakao X 9oormthon] 구름톤 유니브 IT 연합 프로젝트
 
-[![Organization](https://img.shields.io/badge/GitHub-SMU--UMC--PROJECT-blue?style=for-the-badge&logo=github)](https://github.com/SMU-UMC-MINI-PROJECT)
-
+[![Organization](https://img.shields.io/badge/GitHub-SMU--UMC--PROJECT-blue?style=for-the-badge&logo=github)](https://github.com/SMU-UMC-MINI-PROJECT)  
 **SMUPOOL** - 상명대학교 학생 대상 카풀 서비스  
-로그인, 회원가입, 게시판 및 댓글 기능과 실시간 채팅 상담 등 다양한 기능을 제공한다.
+- 로그인/회원가입, 게시판/댓글, 실시간 채팅 상담 등 다양한 기능 제공  
+- **프로젝트 배경**: UMC IT 연합 동아리 상명대 자체 프로젝트
 
-[![Organization](https://img.shields.io/badge/GitHub-SAMI--Sangmyung--University--AI--ChatBot-blue?style=for-the-badge&logo=github)](https://github.com/SMU-Chatbot)
-
+[![Organization](https://img.shields.io/badge/GitHub-SAMI--Sangmyung--University--AI--ChatBot-blue?style=for-the-badge&logo=github)](https://github.com/SMU-Chatbot)  
 **SMU-Chatbot** - 상명대학교용 RAG 기반 LLM 챗봇  
-LangChain, Pinecone, Spring Boot를 통합하여 AI와 원활하게 상호작용할 수 있도록 구현하였다.
+- LangChain, Pinecone, Spring Boot 통합  
+- 학교 관련 총 13 가지의 데이터를 json 형태로 임베딩하고 코사인 유사도 기반 검색으로 도메인 특화 답변 제공  
+- **프로젝트 배경**: 상명대학교 캡스톤 디자인 컴퓨터과학전공
 
-[![Organization](https://img.shields.io/badge/GitHub-UNIV--Spring--Study-blue?style=for-the-badge&logo=github)](https://github.com/UNIV-Spring-Study)
+[![Organization](https://img.shields.io/badge/GitHub-UNIV--Spring--Study-blue?style=for-the-badge&logo=github)](https://github.com/UNIV-Spring-Study)  
+**UNIV Spring Study** - Spring Security와 OAuth2 기반 소셜 로그인 실습 프로젝트  
+- Kakao, Naver, Google 소셜 로그인 구현  
+- JWT 토큰 인증 및 CSRF/XSS 공격 방어
+- Restful API 구조
+- Docker + GCP(Google Cloud Platform) + GitHub Actions: CI/CD 파이프라인 구축으로 자동 서버 배포
+- **프로젝트 배경**: [Kakao X 9oormthon] 구름톤 유니브 IT 연합 동아리 스터디 프로젝트
 
-**UNIV Spring Study** - Spring Security와 OAuth2를 이용한 소셯 로그인(kakao, naver, google), Jwt 토큰 인증과 csrf/xss 공격 방어 등을 구현한 나만의 개발 실습형 프로젝트
 
-[![Organization](https://img.shields.io/badge/GitHub-Find_Sumoong_diploma-blue?style=for-the-badge&logo=github)](https://github.com/jung0522/Find_Sumoong_diploma)
-
+[![Organization](https://img.shields.io/badge/GitHub-Find_Sumoong_diploma-blue?style=for-the-badge&logo=github)](https://github.com/jung0522/Find_Sumoong_diploma)  
 **Find_Sumoong_diploma** - Java GUI 기반 게임
+
 
 
 ## 🌟My Programming Language
