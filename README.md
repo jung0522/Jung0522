@@ -99,7 +99,10 @@
 - **프로젝트 배경**: [Kakao X 9oormthon] 구름톤 유니브 IT 연합 동아리 스터디 프로젝트  
 - Kakao, Naver, Google 소셜 로그인 구현  
 - JWT 토큰 인증 및 CSRF/XSS 공격 방어  
-- Restful API 구조  
+- Restful API 구조
+- Builder, toBuilder(빌더 패턴) 활용 setter 대체로 객체의 불변성 확보
+- Lazy Loading으로 성능 향상
+- JWT 인증 도입 게시판 CRUD 구현(D: 물리적 삭제 X, is_delete를 활용 논리적 삭제 O
 - Docker + GCP(Google Cloud Platform) + GitHub Actions: CI/CD 파이프라인 구축으로 자동 서버 배포
 
 
