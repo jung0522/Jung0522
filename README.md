@@ -27,7 +27,7 @@
 
 ## 🔭 I'm currently working on
 
-- [kaka x 9oormthon] I am participating in a Univ union project as a Back-End developer.
+- [kaka x 9oormthon] I am participating 9oormthon Univ IT Club as a Back-End developer.
 - [KT x 9oorm] I am participating in a Deepdive Back-End 5th.
 
 ## 🌱 I'm currently learning
