@@ -2,7 +2,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHp6bmtjZmJieXdoN2kwcnBla29tdTQ1dDh2Y3lzc2xhN21tZTN6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" alt="Cat programming GIF">
 </p>
 
-# Hello, World I'm a Securities Firm IT back-end developer. 👋
+# Hello, World I'm a financial Firm IT back-end developer. 👋
 
  
 제가 개발하는 모습을 나타내는 세 가지 키워드는 열정, 끈기, 꼼꼼함입니다.
