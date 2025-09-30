@@ -159,9 +159,21 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Eureka](https://img.shields.io/badge/Eureka-FF6F00?style=for-the-badge&logo=java&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+<!-- Data Processing -->
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+<!-- Monitoring -->
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+<!-- MSA -->
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Eureka Server](https://img.shields.io/badge/Eureka_Server-FF6F00?style=for-the-badge&logo=java&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+<!-- Testing -->
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=java&logoColor=white)
 
 <!-- OS -->
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?style=for-the-badge&logo=linux&logoColor=white)
