@@ -84,12 +84,12 @@
 
 ---
 
-## 🤖 SAMI(사미) - 상명대학교 AI 챗봇, 파이썬 라이브러리 활용 정량적 평가
+## SAMI(사미) - 상명대학교 AI 챗봇, 파이썬 라이브러리 활용 정량적 평가
 <a href="https://github.com/SMU-Chatbot/SAMI-Back_End">
-  <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAMI-Back_End-007bff?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://github.com/SMU-Chatbot/SAMI-Performance">
-  <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAMI-Performance-007bff?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 **프로젝트 배경:** 상명대학교 캡스톤 디자인 (컴퓨터과학전공)  
@@ -104,9 +104,9 @@
 
 ---
 
-## 🛒 Wit - 해외 여행 온라인 쇼핑몰 애플리케이션
+## Wit - 해외 여행 온라인 쇼핑몰 애플리케이션
 <a href="https://github.com/UMC6th-Wit">
-  <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/UMC6th-Wit-007bff?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 **프로젝트 배경:** UMC IT 연합 동아리 정규 프로젝트  
@@ -121,9 +121,9 @@
 
 ---
 
-## 🚗 SMUPOOL - 상명대학교 카풀 애플리케이션
+## SMUPOOL - 상명대학교 카풀 애플리케이션
 <a href="https://github.com/SMU-UMC-MINI-PROJECT">
-  <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SMU-UMC-MINI-PROJECT-007bff?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 **프로젝트 배경:** 상명대학교 UMC 자체 프로젝트  
@@ -136,9 +136,9 @@
 
 ---
 
-## 🔐 Univ Spring Study - OAuth2 + JWT 보안 스터디 프로젝트
+## Univ Spring Study - OAuth2 + JWT 보안 스터디 프로젝트
 <a href="https://github.com/UNIV-Spring-Study">
-  <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/UNIV-Spring-Study-007bff?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 **프로젝트 배경:** [Kakao X 9oormthon] 구름톤 유니브 스터디 프로젝트  
@@ -156,7 +156,7 @@
 ## 📊 CommitProfile - 깃허브 연동 포트폴리오 도구
 
 <a href="https://github.com/CommitProfile/CommitProfile-back">
-  <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/CommitProfile-CommitProfile-back-007bff?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 **프로젝트 배경:** [Kakao X 9oormthon] 구름톤 유니브 IT 연합 프로젝트  
@@ -171,7 +171,7 @@
 
 ## 🎮 Find_Sumoong_diploma - Java GUI 게임
 <a href="https://github.com/jung0522/Find_Sumoong_diploma">
-  <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/jung0522-Find_Sumoong_diploma-007bff?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 **프로젝트 배경:** Java GUI 기반 개인 게임 프로젝트  
