@@ -123,7 +123,7 @@
 
 ## SMUPOOL - 상명대학교 카풀 애플리케이션
 <a href="https://github.com/SMU-UMC-MINI-PROJECT/SMU_UMC_MINI_PROJECT">
-  <img src="https://img.shields.io/badge/SMU-UMC-MINI-PROJECT-007bff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SMUPOOL-SMU_UMC_MINI_PROJECT-007bff?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 **프로젝트 배경:** 상명대학교 UMC 자체 프로젝트  
