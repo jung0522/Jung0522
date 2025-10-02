@@ -68,10 +68,20 @@
 ## 🚀 My Projects
 
 ## 🩸 단짝이(GluCareLLM) - 1형 당뇨 아동을 위한 게이미피케이션 기반 자기관리 플랫폼
-👉 [GitHub Repo](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_4_BE)
+<p align="center">
+  <a href="https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_4_BE">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_4_BE/issues">
+    <img src="https://img.shields.io/badge/Issues-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  </a>
+  <a href="https://www.notion.so/">
+    <img src="https://img.shields.io/badge/Notion%20Docs-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+</p>
 
 **프로젝트 배경:** [2025 Kakao X 9oorm 시즌톤] 4팀 우수상 & 특별상(LottieFiles) 🏆  
-**역할:** 팀장 & 백엔드 개발  
+**역할:** 백엔드 개발  
 
 **주요 기여**  
 - OpenAI GPT-API + 프롬프트 엔지니어링으로 아동 맞춤형 퀘스트 자동 생성  
@@ -158,7 +168,7 @@
 👉 [GitHub Repo](https://github.com/jung0522/Find_Sumoong_diploma)
 
 **프로젝트 배경:** Java GUI 기반 개인 게임 프로젝트  
-**역할:** 프론트엔드 & 백엔드 개발  
+**역할:** 팀장 & 프론트엔드 & 백엔드 개발  
 
 **주요 기여**  
 - CardLayout 기반 스토리 진행 및 스테이지 화면 전환 구현  
