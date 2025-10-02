@@ -136,9 +136,9 @@
 
 ---
 
-## Univ Spring Study - OAuth2 + JWT 보안 스터디 프로젝트
+## Univ Spring Study - 스터디 프로젝트
 <a href="https://github.com/UNIV-Spring-Study/JuneYoung">
-  <img src="https://img.shields.io/badge/UNIV-Spring-Study-JuneYoung-007bff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/UnivSpringStudy-JuneYoung-007bff?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://github.com/jung0522/MySpring">
   <img src="https://img.shields.io/badge/jung0522-MySpring-007bff?style=for-the-badge&logo=github&logoColor=white" />
@@ -148,7 +148,7 @@
 **역할:** 백엔드 개발  
 
 **주요 기여**  
-- Google/Naver/Kakao 소셜 로그인 + OAuth2 인증 처리  
+- Google/Naver/Kakao 소셜 로그인(OAuth2) + Spring Security 인증 처리  
 - JWT + Redis 기반 Access/Refresh Token 인증 구조 설계  
 - CSRF/XSS 방어 로직 적용 및 보안 강화  
 - 게시판 CRUD 구현 (is_deleted 컬럼 통한 논리적 삭제)  
