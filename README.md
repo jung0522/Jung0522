@@ -67,51 +67,104 @@
 
 ## 🚀 My Projects
 
-[![Organization](https://img.shields.io/badge/GitHub-GluCareLLM--단짝이-blue?style=for-the-badge&logo=github)](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_4_BE)  
-**단짝이(GluCareLLM)** - 1형 당뇨 아동을 위한 게이미피케이션 기반 자기관리 플랫폼  
-- **프로젝트 배경**: [2025 Kakao X 9oorm 시즌톤] 4팀 우수상, 특별상(LottieFiles) 🏆  
-- LLM 기반 맞춤형 퀘스트 제공으로 혈당 측정과 자기관리를 놀이처럼 유도  
-- 보호자 화면에서 종합 수치 및 시간별 변화 모니터링 가능
-- RAG 기법 도입 Chroma DB 이용해 도매인 특화상 확보 
+## 🩸 단짝이(GluCareLLM) - 1형 당뇨 아동을 위한 게이미피케이션 기반 자기관리 플랫폼
+👉 [GitHub Repo](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_4_BE)
 
-[![Organization](https://img.shields.io/badge/GitHub-Wit--Online--ShoppingMall-blue?style=for-the-badge&logo=github)](https://github.com/UMC6th-Wit)  
-**Wit** - 해외 여행 관련 홈쇼핑 서비스  
-- **프로젝트 배경**: UMC IT 연합 동아리 정규 프로젝트  
-- 해외 여행 장바구니 위시리스트 API 구현
-- 돈키호테 웹사이트 크롤랑
-- 커서 기반 페이지네이션 구현
-- 중간 테이블 Folder 이용 SQL문 작성    
+**프로젝트 배경:** [2025 Kakao X 9oorm 시즌톤] 4팀 우수상 & 특별상(LottieFiles) 🏆  
+**역할:** 팀장 & 백엔드 개발  
 
-[![GitHub - CommitProfile](https://img.shields.io/badge/GitHub-CommitProfile-blue?style=for-the-badge&logo=github)](https://github.com/CommitProfile)  
-**CommitProfile** - 개발자 포트폴리오 도구  
-- **프로젝트 배경**: [Kakao X 9oormthon] 구름톤 유니브 IT 연합 프로젝트  
-- GitHub 저장소, 설명, 이슈, PR, 커밋 등 활동 기반 포트폴리오 생성 지원  
+**주요 기여**  
+- OpenAI GPT-API + 프롬프트 엔지니어링으로 아동 맞춤형 퀘스트 자동 생성  
+- RAG + Chroma DB 기반 보호자 맞춤 분석 및 모니터링 기능 구현  
+- Spring Boot & Flask 연동 JWT 인증 시스템 설계  
+- Docker Compose + AWS EC2 기반 서버 배포 및 운영  
+- 혈당 지수 계산, TIR(Time in Range), 변동성 분석 등 헬스 데이터 분석 로직 개발  
 
-[![Organization](https://img.shields.io/badge/GitHub-SMU--UMC--PROJECT-blue?style=for-the-badge&logo=github)](https://github.com/SMU-UMC-MINI-PROJECT)  
-**SMUPOOL** - 상명대학교 학생 대상 카풀 서비스  
-- **프로젝트 배경**: UMC IT 연합 동아리 상명대 자체 프로젝트  
-- 로그인/회원가입, 게시판/댓글, 실시간 채팅 상담 등 다양한 기능 제공  
+---
 
-[![Organization](https://img.shields.io/badge/GitHub-SAMI--Sangmyung--University--AI--ChatBot-blue?style=for-the-badge&logo=github)](https://github.com/SMU-Chatbot)  
-**SMU-Chatbot** - 상명대학교용 RAG 기반 LLM 챗봇  
-- **프로젝트 배경**: 상명대학교 캡스톤 디자인 컴퓨터과학전공  
-- LangChain, Pinecone, Spring Boot 통합  
-- 학교 관련 총 13가지 데이터를 JSON 형태로 임베딩하고 코사인 유사도 기반 검색으로 도메인 특화 답변 제공  
+## 🤖 SAMI(사미) - 상명대학교 AI 챗봇, 파이썬 라이브러리 활용 정량적 평가
+👉 [GitHub Repo](https://github.com/SMU-Chatbot/SAMI-Back_End)
+👉 [GitHub Repo](https://github.com/SMU-Chatbot/SAMI-Performance)
 
-[![Organization](https://img.shields.io/badge/GitHub-UNIV--Spring--Study-blue?style=for-the-badge&logo=github)](https://github.com/UNIV-Spring-Study)  
-**UNIV Spring Study** - Spring Security와 OAuth2 기반 소셜 로그인 실습 프로젝트  
-- **프로젝트 배경**: [Kakao X 9oormthon] 구름톤 유니브 IT 연합 동아리 스터디 프로젝트  
-- Kakao, Naver, Google 소셜 로그인 구현  
-- JWT 토큰 인증 및 CSRF/XSS 공격 방어  
-- Restful API 구조
-- Builder, toBuilder(빌더 패턴) 활용 setter 대체로 객체의 불변성 확보
-- Lazy Loading으로 성능 향상
-- JWT 인증 도입 게시판 CRUD 구현(D: 물리적 삭제 X, is_delete를 활용 논리적 삭제 O
-- Docker + GCP(Google Cloud Platform) + GitHub Actions: CI/CD 파이프라인 구축으로 자동 서버 배포
+**프로젝트 배경:** 상명대학교 캡스톤 디자인 (컴퓨터과학전공)  
+**역할:** 팀장 & 백엔드 개발  
 
+**주요 기여**  
+- 상명대학교 공식 사이트 크롤링 및 12개 카테고리 JSON 데이터셋 구축  
+- HuggingFace 임베딩 모델 + RAG 기반 학사 행정 특화 챗봇 구현  
+- GPT-API 프롬프트 엔지니어링으로 카테고리 분류 및 응답 최적화  
+- SAMI 2.0 → BLEU/ROUGE 기반 정확도·안정성 평가 시스템 구축, 응답 캐싱 및 비용 최적화
+- 성능 평가 연구 보고서 작성
 
-[![Organization](https://img.shields.io/badge/GitHub-Find_Sumoong_diploma-blue?style=for-the-badge&logo=github)](https://github.com/jung0522/Find_Sumoong_diploma)  
-**Find_Sumoong_diploma** - Java GUI 기반 게임
+---
+
+## 🛒 Wit - 해외 여행 온라인 쇼핑몰 애플리케이션
+👉 [GitHub Repo](https://github.com/UMC6th-Wit)
+
+**프로젝트 배경:** UMC IT 연합 동아리 정규 프로젝트  
+**역할:** 백엔드 개발  
+
+**주요 기여**  
+- 돈키호테 공식 웹사이트 크롤링 및 상품 DB 저장  
+- 장바구니/위시리스트 CRUD 기능 및 예외 처리 로직 구현  
+- Product–Cart–Folder 중간 테이블 설계 (N:M 관계 처리)  
+- 커서 기반 페이지네이션 적용으로 조회 성능 최적화  
+- AWS EC2 서버 배포 및 토큰 기반 회원 인증  
+
+---
+
+## 🚗 SMUPOOL - 상명대학교 카풀 애플리케이션
+👉 [GitHub Repo](https://github.com/SMU-UMC-MINI-PROJECT)
+
+**프로젝트 배경:** 상명대학교 UMC 자체 프로젝트  
+**역할:** 백엔드 개발  
+
+**주요 기여**  
+- Puppeteer 기반 상명대 학생 인증 기능 구현 (샘물 사이트 로그인 검증)  
+- REST API 표준에 맞는 에러 핸들링 및 HTTP 상태 코드 관리  
+- 회원 관리(회원가입, 로그인, 정보 수정, 탈퇴) 기능 개발 (MongoDB 연동)  
+
+---
+
+## 🔐 Univ Spring Study - OAuth2 + JWT 보안 스터디 프로젝트
+👉 [GitHub Repo](https://github.com/UNIV-Spring-Study)
+
+**프로젝트 배경:** [Kakao X 9oormthon] 구름톤 유니브 스터디 프로젝트  
+**역할:** 백엔드 개발  
+
+**주요 기여**  
+- Google/Naver/Kakao 소셜 로그인 + OAuth2 인증 처리  
+- JWT + Redis 기반 Access/Refresh Token 인증 구조 설계  
+- CSRF/XSS 방어 로직 적용 및 보안 강화  
+- 게시판 CRUD 구현 (is_deleted 컬럼 통한 논리적 삭제)  
+- GitHub Actions + Docker + GCP CI/CD 파이프라인 구축  
+
+---
+
+## 📊 CommitProfile - 깃허브 연동 포트폴리오 도구
+👉 [GitHub Repo](https://github.com/CommitProfile)
+
+**프로젝트 배경:** [Kakao X 9oormthon] 구름톤 유니브 IT 연합 프로젝트  
+**역할:** 백엔드 개발  
+
+**주요 기여**  
+- GitHub Repository, Commits, Issues, README, PRs 조회 API 구현  
+- GitHub PAT 기반 Private Repo 접근 기능 추가  
+- Spring @Async 기반 비동기 처리로 응답 속도 최적화  
+
+---
+
+## 🎮 Find_Sumoong_diploma - Java GUI 게임
+👉 [GitHub Repo](https://github.com/jung0522/Find_Sumoong_diploma)
+
+**프로젝트 배경:** Java GUI 기반 개인 게임 프로젝트  
+**역할:** 프론트엔드 & 백엔드 개발  
+
+**주요 기여**  
+- CardLayout 기반 스토리 진행 및 스테이지 화면 전환 구현  
+- GUI 컴포넌트(버튼, 이미지, 텍스트) 구성 및 UI 설계  
+- 가위바위보, 구슬 찾기, 로또 머신 등 미니게임 로직 구현  
+
 
 
 
