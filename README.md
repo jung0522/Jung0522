@@ -153,7 +153,7 @@
 
 ## 📊 CommitProfile - 깃허브 연동 포트폴리오 도구
 
-<a href="https://github.com/CommitProfile">
+<a href="https://github.com/CommitProfile/CommitProfile-back">
   <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
