@@ -71,13 +71,16 @@
 **단짝이(GluCareLLM)** - 1형 당뇨 아동을 위한 게이미피케이션 기반 자기관리 플랫폼  
 - **프로젝트 배경**: [2025 Kakao X 9oorm 시즌톤] 4팀 우수상, 특별상(LottieFiles) 🏆  
 - LLM 기반 맞춤형 퀘스트 제공으로 혈당 측정과 자기관리를 놀이처럼 유도  
-- 보호자 화면에서 종합 수치 및 시간별 변화 모니터링 가능  
+- 보호자 화면에서 종합 수치 및 시간별 변화 모니터링 가능
+- RAG 기법 도입 Chroma DB 이용해 도매인 특화상 확보 
 
 [![Organization](https://img.shields.io/badge/GitHub-Wit--Online--ShoppingMall-blue?style=for-the-badge&logo=github)](https://github.com/UMC6th-Wit)  
 **Wit** - 해외 여행 관련 홈쇼핑 서비스  
 - **프로젝트 배경**: UMC IT 연합 동아리 정규 프로젝트  
-- 해외 여행 상품 정보 확인, 리뷰 작성 및 조회 기능 제공  
-- 일본 여행 상품 정보는 돈키호테 웹사이트 참고  
+- 해외 여행 장바구니 위시리스트 API 구현
+- 돈키호테 웹사이트 크롤랑
+- 커서 기반 페이지네이션 구현
+- 중간 테이블 Folder 이용 SQL문 작성    
 
 [![GitHub - CommitProfile](https://img.shields.io/badge/GitHub-CommitProfile-blue?style=for-the-badge&logo=github)](https://github.com/CommitProfile)  
 **CommitProfile** - 개발자 포트폴리오 도구  
