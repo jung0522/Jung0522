@@ -159,8 +159,9 @@
 ## 📊 CommitProfile - 깃허브 연동 포트폴리오 도구
 
 <a href="https://github.com/CommitProfile/CommitProfile-back">
-  <img src="https://img.shields.io/badge/CommitProfile-CommitProfile-back-007bff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/CommitProfile-Back-007bff?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 
 **프로젝트 배경:** [Kakao X 9oormthon] 구름톤 유니브 IT 연합 프로젝트  
 **역할:** 백엔드 개발  
