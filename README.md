@@ -67,8 +67,10 @@
 
 ## 🚀 My Projects
 
-## 🩸 단짝이(GluCareLLM) - 1형 당뇨 아동을 위한 게이미피케이션 기반 자기관리 플랫폼
-<a href="https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_4_BE"> <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+## 단짝이(GluCareLLM) - 1형 당뇨 아동을 위한 게이미피케이션 기반 자기관리 플랫폼
+<a href="https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_4_BE">
+  <img src="https://img.shields.io/badge/9oormthon-univ-007bff?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 **프로젝트 배경:** [2025 Kakao X 9oorm 시즌톤] 4팀 우수상 & 특별상(LottieFiles) 🏆  
 **역할:** 백엔드 개발  
