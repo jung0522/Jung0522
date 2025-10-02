@@ -137,8 +137,11 @@
 ---
 
 ## Univ Spring Study - OAuth2 + JWT 보안 스터디 프로젝트
-<a href="https://github.com/UNIV-Spring-Study">
-  <img src="https://img.shields.io/badge/UNIV-Spring-Study-007bff?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/UNIV-Spring-Study/JuneYoung">
+  <img src="https://img.shields.io/badge/UNIV-Spring-Study-JuneYoung-007bff?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/jung0522/MySpring">
+  <img src="https://img.shields.io/badge/jung0522-MySpring-007bff?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 **프로젝트 배경:** [Kakao X 9oormthon] 구름톤 유니브 스터디 프로젝트  
