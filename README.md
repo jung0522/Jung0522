@@ -156,7 +156,7 @@
 
 ---
 
-## 📊 CommitProfile - 깃허브 연동 포트폴리오 도구
+## CommitProfile - 깃허브 연동 포트폴리오 도구
 
 <a href="https://github.com/CommitProfile/CommitProfile-back">
   <img src="https://img.shields.io/badge/CommitProfile-Back-007bff?style=for-the-badge&logo=github&logoColor=white" />
@@ -173,7 +173,7 @@
 
 ---
 
-## 🎮 Find_Sumoong_diploma - Java GUI 게임
+## Find_Sumoong_diploma - Java GUI 게임
 <a href="https://github.com/jung0522/Find_Sumoong_diploma">
   <img src="https://img.shields.io/badge/jung0522-Find_Sumoong_diploma-007bff?style=for-the-badge&logo=github&logoColor=white" />
 </a>
