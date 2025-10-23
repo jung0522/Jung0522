@@ -50,6 +50,7 @@
 - Blog: [준영이의 헬로 월드](https://blog.naver.com/jungjune0)
 
 ## 📕 My Blog Posting
+- [B-TREE(균형 트리) VS FULLTEXT 인덱스 VS HASH 인덱스](https://blog.naver.com/jungjune0/224050831955)
 - [🗂️ 대규모 데이터 처리 전략: Spring Batch, Kafka, RabbitMQ 비교](https://blog.naver.com/jungjune0/224026892748)
 - [☁️ Spring Boot 프로젝트에서 MSA 실습 (Kafka) (3)](https://blog.naver.com/jungjune0/224003342477)
 - [☁️ Spring Boot 프로젝트에서 MSA 실습 (Kafka) (2)](https://blog.naver.com/jungjune0/224002001963)
