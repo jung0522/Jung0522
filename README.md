@@ -110,7 +110,7 @@
   <img src="https://img.shields.io/badge/SAMI-Performance-007bff?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-**프로젝트 배경:** 상명대학교 캡스톤 디자인 (컴퓨터과학전공)  
+**프로젝트 배경:** 상명대학교 캡스톤 디자인 (컴퓨터과학전공) 최우수상 🏆
 **역할:** 팀장 & 백엔드 개발  
 
 **주요 기여**  
