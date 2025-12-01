@@ -49,7 +49,7 @@
 
 ## 🌱 I'm currently learning
 
-- Topic 1 Spring Batch
+- Topic 1 MCP Server
 
 ## 📫 How to reach me
 
@@ -58,6 +58,7 @@
 - Blog: [준영이의 헬로 월드](https://blog.naver.com/jungjune0)
 
 ## 📕 My Blog Posting
+- [🐙 Git Branch 전략](https://blog.naver.com/jungjune0/224094381764)
 - [B-TREE(균형 트리) VS FULLTEXT 인덱스 VS HASH 인덱스](https://blog.naver.com/jungjune0/224050831955)
 - [🗂️ 대규모 데이터 처리 전략: Spring Batch, Kafka, RabbitMQ 비교](https://blog.naver.com/jungjune0/224026892748)
 - [☁️ Spring Boot 프로젝트에서 MSA 실습 (Kafka) (3)](https://blog.naver.com/jungjune0/224003342477)
