@@ -58,6 +58,7 @@
 - Blog: [준영이의 헬로 월드](https://blog.naver.com/jungjune0)
 
 ## 📕 My Blog Posting
+- [CQRS 📝 / 🔍](https://blog.naver.com/jungjune0/224098186630)
 - [🐙 Git Branch 전략](https://blog.naver.com/jungjune0/224094381764)
 - [B-TREE(균형 트리) VS FULLTEXT 인덱스 VS HASH 인덱스](https://blog.naver.com/jungjune0/224050831955)
 - [🗂️ 대규모 데이터 처리 전략: Spring Batch, Kafka, RabbitMQ 비교](https://blog.naver.com/jungjune0/224026892748)
