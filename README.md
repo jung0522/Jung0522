@@ -56,11 +56,11 @@
 ## 🎓 Education
 
 - **Sangmyung University**
-  4th Grade, 2st Semester (major in computer science)
+  major in computer science 
 
 ## 🔭 I'm currently working on
 
-- [KT x 9oorm] I am participating in a Deepdive Back-End 5th.
+- 
 
 ## 🌱 I'm currently learning
 
