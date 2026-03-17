@@ -18,9 +18,7 @@
 
 ## 🏆 Awards
 
-🥇 Kakao x Groom 시즌톤(해커톤) 4기
-
-우수상 & 특별상(LottieFiles)
+1. 🥇 Kakao x Groom 시즌톤(해커톤) 4기 우수상 & 특별상(LottieFiles)
 
 역할: Backend
 
@@ -30,9 +28,7 @@
 
 기간: 2025.09.06 ~ 2025.09.20
 
-🥇 상명대학교 캡스톤디자인 (컴퓨터과학전공)
-
-최우수상
+2. 🥇 상명대학교 캡스톤디자인 (컴퓨터과학전공) 최우수상
 
 역할: 팀장, PM, Backend
 
@@ -45,17 +41,13 @@ SAMI 성능 평가 및 연구 보고서 작성 (Python 기반 정량 분석)
 수상일: 2025.11.26
 
 
-🥇 kt cloud x Groom 딥다이브 5기
-
-최종 프로젝트 최우수상
+3. 🥇 kt cloud x Groom 딥다이브 5기 최종 프로젝트 최우수상
 
 역할: Backend
 
 수상일: 2026.01.28
 
-🎖 kt cloud x Groom 딥다이브 백엔드 5기 
-
-우수 수료생 선정
+4. 🥇 kt cloud x Groom 딥다이브 백엔드 5기 우수 수료생 선정
 
 역할: Backend
 
