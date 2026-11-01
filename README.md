@@ -4,6 +4,12 @@
 
 # Hello, World I'm a passionate Programmer June Young Jung. 👋
 
+## 💼 Career
+
+**파주LG디스플레이 4MCC 개발자**
+
+- **아이엔에쓰 SI 개발  2026.07.13 ~**
+
 ## 🏆 Awards
 
 1. 🥇 Kakao x Groom 시즌톤(해커톤) 4기 우수상 & 특별상(LottieFiles)
